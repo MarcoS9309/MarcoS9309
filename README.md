@@ -25,9 +25,13 @@ Most of my repositories are currently in **Spanish** as part of my learning proc
 
 ### Featured Repositories
 
-- [Interactive Game: "Virtual Psychodrama Theater" (BETA)](https://github.com/MarcoS9309/desktop-tutorial)
+- [Interactive Game: "Virtual Psychodrama Theater" (Beta)](https://github.com/MarcoS9309/desktop-tutorial)
 - [Blog on Critical Thinking and Humanities](https://phantomlord123.blogspot.com/)
+- [My random files](https://github.com/MarcoS9309/Repositorio-de-entradas)
 
 ---
+
+- [Blog in Write as](https://write.as/marcosv/)
+
 
 > I believe in learning as a form of critical and creative resistance. My goal is to integrate diverse knowledge to generate symbolic, educational, and human impact through digital environments.
