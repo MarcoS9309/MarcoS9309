@@ -12,7 +12,8 @@ To get in touch, feel free to reach out via [X](https://x.com/vinicio_salto) or 
 
 **Fun fact:** I’m building games and symbolic narrative experiences without knowing much code… but I’m learning every day!
 
-Most of my repositories are currently in **Spanish** as part of my learning journey, but I plan to progressively create content in **English** as well.
+- This GitHub repository is created to store and manage my drafts before publishing them on my blogs, as well as to include some innovative proposals developed as tasks to organize my ideas and control various entries.
+- Most of my repositories are currently in **Spanish** as part of my learning journey, but I plan to progressively create content in **English** as well.
 
 
 ---
