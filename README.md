@@ -29,6 +29,9 @@ Most of my repositories are currently in **Spanish** as part of my learning proc
 - [Blog on Critical Thinking and Humanities](https://phantomlord123.blogspot.com/)
 - [My random files](https://github.com/MarcoS9309/Repositorio-de-entradas)
 
+  26-07-2025
+- [New game](https://github.com/MarcoS9309/fabulas-emocionales)
+
 ---
 
 - [Blog in Write as](https://write.as/marcosv/)
