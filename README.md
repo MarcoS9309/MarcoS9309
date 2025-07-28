@@ -18,6 +18,12 @@ To get in touch, feel free to reach out via [X](https://x.com/vinicio_salto) or 
 
 ---
 
+I do not consider myself a programmer in the strict sense of the word; a programmer is someone who uses their ingenuity to create technology. I would rather consider myself a learner or a companion on this vast technological journey. As a beginner, my goal is to create a space that fosters my learning in areas such as technology, art, experiences, progress, beliefs, and more, always promoting critical, creative, and divergent thinking.
+
+In this context, this repository represents a sample of my work as a creator and professional in the fields of arts, humanities, and health, where I aim to integrate interdisciplinary knowledge and a reflective approach to enrich my practice.
+
+---
+
 ### Language Notice
 
 Most of my repositories are currently in **Spanish** as part of my learning process. Gradually, I will start creating content in **English** to expand collaboration and accessibility.
