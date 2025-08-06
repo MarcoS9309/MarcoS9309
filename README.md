@@ -1,4 +1,6 @@
-# Hello! I'm Marco
+# Hello! 
+---
+**Hola, cómo estas!!!** 
 
 I'm an interdisciplinary professional with interests in **health**, **art**, and the **humanities**, currently exploring the potential of **GitHub** to integrate educational, artistic, and digital projects. I'm in a phase of self-directed learning, combining creativity and technology to create blogs, websites, and interactive experiences.
 
