@@ -4,12 +4,12 @@
 
 *i build small, human‑centered experiments at the edge of **art × ai × education**.*
 
-<a href="https://img.shields.io/badge/learning-by--doing-6aa84f?labelColor=1b1f24"><img alt="learning by doing" src="https://img.shields.io/badge/learning-by--doing-6aa84f?labelColor=1b1f24"></a> <[...]>
+<a href="https://img.shields.io/badge/learning-by--doing-6aa84f?labelColor=1b1f24"><img alt="learning by doing" src="https://img.shields.io/badge/learning-by--doing-6aa84f?labelColor=1b1f24"></a> <a href="https://img.shields.io/badge/focus-art%20%E2%9F%A8%20ai%20%E2%9F%A8%20storytelling-3c78d8?labelColor=1b1f24"><img alt="focus" src="https://img.shields.io/badge/focus-art%20%E2%9F%A8%20ai%20%E2%9F%A8%20storytelling-3c78d8?labelColor=1b1f24"></a> <a href="https://img.shields.io/badge/langs-en%20%E2%80%A2%20es-ffb000?labelColor=1b1f24"><img alt="languages" src="https://img.shields.io/badge/langs-en%20%E2%80%A2%20es-ffb000?labelColor=1b1f24"></a>
 
 </div>
 
 > *i believe in learning as a form of critical and creative resistance.* my goal is to integrate diverse knowledge to generate symbolic, educational, and human impact through digital environments.
-> i’m in a phase of **self‑directed learning**: i blend ai, art, and storytelling to create blogs, websites, and small interactive experiences. i use GitHub as a **workbench**, not a perfect s[...]  
+> i’m in a phase of **self‑directed learning**: i blend ai, art, and storytelling to create blogs, websites, and small interactive experiences. i use GitHub as a **workbench**, not a perfect showcase. i’m interested in projects on **digital art, education, mental health**, and **symbolic communication**; i’m also seeking practice with **git**, **github actions**, **javascript**, and **repository architecture**.
 
 ---
 
@@ -31,7 +31,7 @@
 
 ## about me
 
-I don’t call myself a “programmer” in the strict sense; today I see myself as a **learner and fellow traveler**. I’m building a space that encourages **critical, creative, and divergent** [...]  
+I don’t call myself a “programmer” in the strict sense; today I see myself as a **learner and fellow traveler**. I’m building a space that encourages **critical, creative, and divergent** thinking, bridging arts, humanities, and health. This profile‑repo works as a **studio** where I keep drafts, prototypes, and proposals before publishing them to blogs or sites.
 
 ## featured repos
 
@@ -65,13 +65,12 @@ Most repositories are currently in **Spanish**; I’ll progressively add **Engli
 ## tools i use
 
 * **languages**: Python, JavaScript, HTML/CSS, Markdown.
-* **tooling**: VS Code, Git & GitHub, Copilot, GitHub Spark.
-* **models**: ChatGPT, Gemini, Grok, Claude (as needed).
+* **tooling**: VS Code, Git & GitHub, Copilot. 
 
 ## contact
 
 * GitHub: **@MarcoS9309**
-* X/Twitter: [https://x.com/vinicio_salto](https://x.com/vinicio_salto)
+* X/Twitter: [https://x.com/vinicio\_salto](https://x.com/vinicio_salto)
 * email: *(alligator9339@protonmail.com)*
 * personal blog: *(https://phantomlord123.blogspot.com/)*
 
@@ -82,7 +81,7 @@ Most repositories are currently in **Spanish**; I’ll progressively add **Engli
 <details>
 <summary>More context</summary>
 
-this profile is my workshop: i keep drafts and prototypes here while learning in public. open to lightweight collaborations and feedback.
+this profile is my workshop: i keep drafts and prototypes here while learning in public.
 
 </details>
 
