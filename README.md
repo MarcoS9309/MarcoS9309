@@ -1,6 +1,6 @@
 <div align="center">
 
-# hi, i'm **Marco Vinicio** 👋
+# hi, i'm **Marco Vinicio** 
 
 *i build small, human‑centered experiments at the edge of **art × ai × education**.*
 
@@ -15,19 +15,19 @@
 
 ## quick highlights
 
-* 🎯 **now**: writing stories/fables, testing minimal web templates, and prototyping llm tools.
-* 🧩 **approach**: small iterations, clear constraints, and honest documentation.
-* 🧠 **values**: critical thinking, ethical ai, accessibility, and kindness.
-* 🌍 **bilingual**: spanish (native) · english (working).
+* **now**: writing stories/fables, testing minimal web templates, and prototyping llm tools.
+* **approach**: small iterations, clear constraints, and honest documentation.
+* **values**: critical thinking, ethical ai, accessibility, and kindness.
+* **bilingual**: spanish (native) · english (working).
 
 ## now
 
-* ✍️ writing **stories and fables** (with psychology and symbols).
-* 🧪 testing **minimal templates** for static sites.
-* 🤖 integrating **LLMs** (chatbots, prompts, and small utilities).
-* 🎨 exploring **photo/ai** for visual narratives.
-* 💻 learning **web dev** (HTML, Markdown, JS) and **Git/GitHub** workflows.
-* 🎓 considering **several master’s programs**; the one i’m evaluating is **innovative** (art + education + technology).
+* writing **stories and fables** (with psychology and symbols).
+* testing **minimal templates** for static sites.
+* integrating **LLMs** (chatbots, prompts, and small utilities).
+* exploring **photo/ai** for visual narratives.
+* learning **web dev** (HTML, Markdown, JS) and **Git/GitHub** workflows.
+* considering **several master’s programs**; the one i’m evaluating is **innovative** (art + education + technology).
 
 ## about me
 
