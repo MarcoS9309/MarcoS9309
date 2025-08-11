@@ -1,46 +1,98 @@
-# Hello! 
----
-**Hola, cómo estas!!!** 
+<div align="center">
 
-I'm an interdisciplinary professional with interests in **health**, **art**, and the **humanities**, currently exploring the potential of **GitHub** to integrate educational, artistic, and digital projects. I'm in a phase of self-directed learning, combining creativity and technology to create blogs, websites, and interactive experiences.
+# hi, i'm **Marco Vinicio** 👋
 
----
+*i build small, human‑centered experiments at the edge of **art × ai × education**.*
 
-### About Me
+<a href="https://img.shields.io/badge/learning-by--doing-6aa84f?labelColor=1b1f24"><img alt="learning by doing" src="https://img.shields.io/badge/learning-by--doing-6aa84f?labelColor=1b1f24"></a> <a href="https://img.shields.io/badge/focus-art%20%E2%9F%A8%20ai%20%E2%9F%A8%20storytelling-3c78d8?labelColor=1b1f24"><img alt="focus" src="https://img.shields.io/badge/focus-art%20%E2%9F%A8%20ai%20%E2%9F%A8%20storytelling-3c78d8?labelColor=1b1f24"></a> <a href="https://img.shields.io/badge/langs-en%20%E2%80%A2%20es-ffb000?labelColor=1b1f24"><img alt="languages" src="https://img.shields.io/badge/langs-en%20%E2%80%A2%20es-ffb000?labelColor=1b1f24"></a> <a href="#how-to-collaborate"><img alt="open to collaboration" src="https://img.shields.io/badge/open_to-collaboration-de0063?labelColor=1b1f24"></a>
 
-I’m currently working independently on blogs, web pages, and interdisciplinary dissemination projects. At the same time, I’m learning web development, GitHub, HTML, Markdown, and basic programming with the support of artificial intelligence. I’m interested in collaborating on projects related to digital art, education, mental health, and symbolic communication. I’m also seeking guidance on Git, GitHub Actions, JavaScript, and how to structure complex repositories efficiently. You can ask me about philosophy, psychology, symbolism, art, education, and health.
+</div>
 
-To get in touch, feel free to reach out via [X](https://x.com/vinicio_salto) or soon through my personal blog.
-
-**Fun fact:** I’m building games and symbolic narrative experiences without knowing much code… but I’m learning every day!
-
-- This GitHub repository is created to store and manage my drafts before publishing them on my blogs, as well as to include some innovative proposals developed as tasks to organize my ideas and control various entries.
-- Most of my repositories are currently in **Spanish** as part of my learning journey, but I plan to progressively create content in **English** as well.
-
+> *i believe in learning as a form of critical and creative resistance.* my goal is to integrate diverse knowledge to generate symbolic, educational, and human impact through digital environments.
+> i’m in a phase of **self‑directed learning**: i blend ai, art, and storytelling to create blogs, websites, and small interactive experiences. i use GitHub as a **workbench**, not a perfect showcase. i’m interested in projects on **digital art, education, mental health**, and **symbolic communication**; i’m also seeking practice with **git**, **github actions**, **javascript**, and **repository architecture**.
 
 ---
 
-I do not consider myself a programmer in the strict sense of the word; a programmer is someone who uses their ingenuity to create technology. I would rather consider myself a learner or a companion on this vast technological journey. As a beginner, my goal is to create a space that fosters my learning in areas such as technology, art, experiences, progress, beliefs, and more, always promoting critical, creative, and divergent thinking.
+## quick highlights
 
-In this context, this repository represents a sample of my work as a creator and professional in the fields of arts, humanities, and health, where I aim to integrate interdisciplinary knowledge and a reflective approach to enrich my practice.
+* 🎯 **now**: writing stories/fables, testing minimal web templates, and prototyping llm tools.
+* 🧩 **approach**: small iterations, clear constraints, and honest documentation.
+* 🧠 **values**: critical thinking, ethical ai, accessibility, and kindness.
+* 🌍 **bilingual**: spanish (native) · english (working).
+
+## now
+
+* ✍️ writing **stories and fables** (with psychology and symbols).
+* 🧪 testing **minimal templates** for static sites.
+* 🤖 integrating **LLMs** (chatbots, prompts, and small utilities).
+* 🎨 exploring **photo/ai** for visual narratives.
+* 💻 learning **web dev** (HTML, Markdown, JS) and **Git/GitHub** workflows.
+* 🎓 considering **several master’s programs**; the one i’m evaluating is **innovative** (art + education + technology).
+
+## about me
+
+I don’t call myself a “programmer” in the strict sense; today I see myself as a **learner and fellow traveler**. I’m building a space that encourages **critical, creative, and divergent** thinking, bridging arts, humanities, and health. This profile‑repo works as a **studio** where I keep drafts, prototypes, and proposals before publishing them to blogs or sites.
+
+## featured repos
+
+* **Historias** → [https://github.com/MarcoS9309/Historias](https://github.com/MarcoS9309/Historias)
+  Short stories, narrative mini‑projects, and AI experiments. *(in progress)*
+* **Fábulas emocionales** → [https://github.com/MarcoS9309/fabulas-emocionales](https://github.com/MarcoS9309/fabulas-emocionales)
+  Original fables for reflection and education. *(living draft)*
+* **Plantilla web mínima** → [https://github.com/MarcoS9309/plantilla-web-minima](https://github.com/MarcoS9309/plantilla-web-minima)
+  Lightweight base (HTML/CSS/JS) for quick projects and simple pages.
+
+### more repos / archive
+
+* **“Virtual Psychodrama Theater” (beta)** → [https://github.com/MarcoS9309/desktop-tutorial](https://github.com/MarcoS9309/desktop-tutorial)
+  Interactive experiment for symbolic play/theater.
+* **Repositorio de entradas / My random files** → [https://github.com/MarcoS9309/Repositorio-de-entradas](https://github.com/MarcoS9309/Repositorio-de-entradas)
+  Loose materials, sketches, and tests. *(updated: 2025‑07‑26)*
+
+## language notice
+
+Most repositories are currently in **Spanish**; I’ll progressively add **English** content to broaden collaboration and access.
+
+## interests
+
+* Art
+* Innovation
+* Medicine
+* Knowledge
+* Ethical AI
+* Continuous interdisciplinary learning
+
+## tools i use
+
+* **languages**: Python, JavaScript, HTML/CSS, Markdown.
+* **tooling**: VS Code, Git & GitHub, Copilot, GitHub Spark.
+* **models**: ChatGPT, Gemini, Grok, Claude (as needed).
+
+## how to collaborate
+
+I’m interested in projects on **digital art, education, mental health**, and **symbolic communication**.
+I’m also looking for guidance and hands‑on practice with **Git**, **GitHub Actions**, **JavaScript**, and **structuring complex repositories**.
+If this resonates, open an *issue* or share your ideas.
+
+## contact
+
+* GitHub: **@MarcoS9309**
+* X/Twitter: [https://x.com/vinicio\_salto](https://x.com/vinicio_salto)
+* email: *(alligator9339@protonmail.com)*
+* personal blog: *(https://phantomlord123.blogspot.com/)*
 
 ---
 
-### Language Notice
+> *I believe in learning as a form of critical and creative resistance. My goal is to integrate diverse knowledge to generate symbolic, educational, and human impact through digital environments.*
 
-Most of my repositories are currently in **Spanish** as part of my learning process. Gradually, I will start creating content in **English** to expand collaboration and accessibility.
+<details>
+<summary>More context</summary>
 
----
+this profile is my workshop: i keep drafts and prototypes here while learning in public. open to lightweight collaborations and feedback.
 
-### Featured Repositories
-
-- [Interactive Game: "Virtual Psychodrama Theater" (Beta)](https://github.com/MarcoS9309/desktop-tutorial)
-- [My random files](https://github.com/MarcoS9309/Repositorio-de-entradas)
-
-  26-07-2025
-- [New game](https://github.com/MarcoS9309/fabulas-emocionales)
+</details>
 
 ---
 
+*last updated: 2025‑08‑11*
 
-> I believe in learning as a form of critical and creative resistance. My goal is to integrate diverse knowledge to generate symbolic, educational, and human impact through digital environments.
