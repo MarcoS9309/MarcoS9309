@@ -1,88 +1,76 @@
 <div align="center">
 
-# Hi, I'm **Marco Vinicio** 
+# Hi, I'm **Marco Vinicio**
 
 *I build small, human-centered experiments at the edge of **art × AI × education**.*
 
-<a href="https://img.shields.io/badge/learning-by--doing-6aa84f?labelColor=1b1f24"><img alt="learning by doing" src="https://img.shields.io/badge/learning-by--doing-6aa84f?labelColor=1b1f24"></a> <a href="https://img.shields.io/badge/focus-art%20%E2%9F%A8%20ai%20%E2%9F%A8%20storytelling-3c78d8?labelColor=1b1f24"><img alt="focus" src="https://img.shields.io/badge/focus-art%20%E2%9F%A8%20ai%20%E2%9F%A8%20storytelling-3c78d8?labelColor=1b1f24"></a> <a href="https://img.shields.io/badge/langs-en%20%E2%80%A2%20es-ffb000?labelColor=1b1f24"><img alt="languages" src="https://img.shields.io/badge/langs-en%20%E2%80%A2%20es-ffb000?labelColor=1b1f24"></a>
+</div>
+
+---
+
+## GitHub Overview
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcoS9309&theme=github-compact&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoS9309&layout=compact&theme=transparent&hide_border=true)  
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=MarcoS9309&theme=transparent&hide_border=true)
 
 </div>
 
-> *I believe in learning as a form of critical and creative resistance.* My goal is to integrate diverse knowledge to create symbolic, educational, and human impact through digital environments.
-> I’m in a phase of **self-directed learning**: I blend AI, art, and storytelling to create blogs, websites, and small interactive experiences. I use GitHub as a **workbench**, not a perfect showcase. I’m interested in projects on **digital art, education, mental health**, and **symbolic communication**; I’m also seeking practice with **Git**, **GitHub Actions**, **JavaScript**, and **repository architecture**.
+---
+
+## Focus
+
+- **Now** → Writing stories and fables · Prototyping minimal web templates · Experimenting with LLMs.  
+- **Approach** → Iterative steps · Clear constraints · Transparent documentation.  
+- **Values** → Critical thinking · Ethical AI · Accessibility · Interdisciplinarity.  
+- **Languages** → Spanish (native) · English (working).  
 
 ---
 
-## quick highlights
+## Featured Projects
 
-* **now**: writing stories/fables, testing minimal web templates, and prototyping LLM tools.
-* **approach**: small iterations, clear constraints, and honest documentation.
-* **values**: critical thinking, ethical AI, accessibility, and kindness.
-* **bilingual**: Spanish (native) · English (working).
-
-## now
-
-* Writing **stories and fables** (with psychology and symbols).
-* Testing **minimal templates** for static sites.
-* Integrating **LLMs** (chatbots, prompts, and small utilities).
-* Exploring **photo/AI** for visual narratives.
-* Learning **web dev** (HTML, Markdown, JS) and **Git/GitHub** workflows.
-* Considering **several master’s programs**; the one I’m evaluating is **innovative** (art + education + technology).
-
-## about me
-
-I don’t call myself a “programmer” in the strict sense; today I see myself as a **learner and fellow traveler**. I’m building a space that encourages **critical, creative, and divergent** thinking, bridging arts, humanities, and health. This profile-repo works as a **studio** where I keep drafts, prototypes, and proposals before publishing them to blogs or sites.
-
-## featured repos
-
-* **Historias** → https://github.com/MarcoS9309/Historias  
-  Short stories, narrative mini-projects, and AI experiments. *(in progress)*
-* **Fábulas emocionales** → https://github.com/MarcoS9309/fabulas-emocionales  
-  Original fables for reflection and education. *(living draft)*
-* **Plantilla web mínima** → https://github.com/MarcoS9309/plantilla-web-minima  
-  Lightweight base (HTML/CSS/JS) for quick projects and simple pages.
-
-### more repos / archive
-
-* **“Virtual Psychodrama Theater” (beta)** → https://github.com/MarcoS9309/desktop-tutorial  
-  Interactive experiment for symbolic play/theater.
-* **Repositorio de entradas / My random files** → https://github.com/MarcoS9309/Repositorio-de-entradas  
-  Loose materials, sketches, and tests. *(updated: 2025-07-26)*
-
-## language notice
-
-Most repositories are currently in **Spanish**; I’ll progressively add **English** content to broaden collaboration and access.
-
-## interests
-
-* Art
-* Innovation
-* Medicine
-* Knowledge
-* Ethical AI
-* Continuous interdisciplinary learning
-
-## tools i use
-
-* **languages**: Python, JavaScript, HTML/CSS, Markdown.
-* **tooling**: VS Code, Git & GitHub, Copilot. 
-
-## contact
-
-* GitHub: **@MarcoS9309**
-* X/Twitter: https://x.com/vinicio_salto
-* email: *(alligator9339@protonmail.com)*
-* personal blog: *(https://phantomlord123.blogspot.com/)*
-
----
-
-> *I believe in learning as a form of critical and creative resistance. My goal is to integrate diverse knowledge to generate symbolic, educational, and human impact through digital environments.*
+- [**Historias**](https://github.com/MarcoS9309/Historias) → Short stories, narrative mini-projects, and AI experiments *(in progress)*  
+- [**Fábulas emocionales**](https://github.com/MarcoS9309/fabulas-emocionales) → Original fables for reflection and education *(living draft)*  
+- [**Plantilla web mínima**](https://github.com/MarcoS9309/plantilla-web-minima) → Lightweight HTML/CSS/JS base for quick projects  
 
 <details>
-<summary>More context</summary>
+<summary>Archive / More Repos</summary>
 
-This profile is my workshop: I keep drafts and prototypes here while learning in public.
+- [Virtual Psychodrama Theater (beta)](https://github.com/MarcoS9309/desktop-tutorial)  
+- [Repositorio de entradas](https://github.com/MarcoS9309/Repositorio-de-entradas) *(updated: 2025-07-26)*  
 
 </details>
-*last updated: 2025-08-11*
-```
+
+---
+
+## Tools
+
+- **Languages**: Python · JavaScript · HTML/CSS · Markdown  
+- **Environment**: VS Code · Git · GitHub · Copilot  
+
+---
+
+## Interests
+
+Art · Symbolic communication · Digital education · Mental health · Innovation
+
+---
+
+## Contact
+
+- GitHub: [@MarcoS9309](https://github.com/MarcoS9309)  
+- X/Twitter: [@vinicio_salto](https://x.com/vinicio_salto)  
+- Blog: [phantomlord123.blogspot.com](https://phantomlord123.blogspot.com/)  
+- Email: **alligator9339@protonmail.com**
+
+---
+
+<div align="center">
+
+⌛ *Last updated: 2025-08-11*
+
+</div>
+
+
