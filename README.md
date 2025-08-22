@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hi, I'm **Marco Vinicio**
+# 👋 Hi, I'm **Marco Vinicio**
 
-*I build small, human-centered experiments at the edge of **art × AI × education**.*
+*Exploring the intersection of **art · AI · education** through small, critical, and accessible projects.*  
 
 </div>
 
 ---
 
-## GitHub Overview
+## 📊 GitHub Overview
 
 <div align="center">
 
@@ -20,50 +20,51 @@
 
 ---
 
-## Focus
+## 🎯 Focus
 
-- **Now** → Writing stories and fables · Prototyping minimal web templates · Experimenting with LLMs.  
-- **Approach** → Iterative steps · Clear constraints · Transparent documentation.  
+- **Now** → Writing stories and fables · Designing minimal web templates · Experimenting with LLMs.  
+- **Method** → Iterative steps · Clear constraints · Open documentation.  
 - **Values** → Critical thinking · Ethical AI · Accessibility · Interdisciplinarity.  
-- **Languages** → Spanish (native) · English (working).  
+- **Languages** → Spanish (native) · English (professional).  
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-- [**Historias**](https://github.com/MarcoS9309/Historias) → Short stories, narrative mini-projects, and AI experiments *(in progress)*  
+- [**Historias**](https://github.com/MarcoS9309/Historias) → Short stories and AI-driven narrative experiments *(in progress)*  
 - [**Fábulas emocionales**](https://github.com/MarcoS9309/fabulas-emocionales) → Original fables for reflection and education *(living draft)*  
-- [**Plantilla web mínima**](https://github.com/MarcoS9309/plantilla-web-minima) → Lightweight HTML/CSS/JS base for quick projects  
+- [**Minimal Web Template**](https://github.com/MarcoS9309/plantilla-web-minima) → Lightweight HTML/CSS/JS base for quick projects  
 
 <details>
-<summary>Archive / More Repos</summary>
+<summary>📂 Archive / More Repos</summary>
 
 - [Virtual Psychodrama Theater (beta)](https://github.com/MarcoS9309/desktop-tutorial)  
-- [Repositorio de entradas](https://github.com/MarcoS9309/Repositorio-de-entradas) *(updated: 2025-07-26)*  
+- [Entries Repository](https://github.com/MarcoS9309/Repositorio-de-entradas) *(last update: 2025-07-26)*  
 
 </details>
 
 ---
 
-## Tools
+## 🛠️ Tools
 
 - **Languages**: Python · JavaScript · HTML/CSS · Markdown  
 - **Environment**: VS Code · Git · GitHub · Copilot  
 
 ---
 
-## Interests
+## 🌱 Interests
 
-Art · Symbolic communication · Digital education · Mental health · Innovation
+Art · Symbolic communication · Digital education · Mental health · Interdisciplinary innovation  
 
 ---
 
-## Contact
+## 📬 Contact
 
 - GitHub: [@MarcoS9309](https://github.com/MarcoS9309)  
 - X/Twitter: [@vinicio_salto](https://x.com/vinicio_salto)  
 - Blog: [phantomlord123.blogspot.com](https://phantomlord123.blogspot.com/)  
-- Email: **alligator9339@protonmail.com**
+- Email: **alligator9339@protonmail.com**  
+
 
 ---
 
