@@ -1,77 +1,87 @@
 <div align="center">
 
-# 👋 Hi, I'm **Marco Vinicio**
+# 👋 Hola, soy **Marco Vinicio**
 
-*Exploring the intersection of **art · AI · education** through small, critical, and accessible projects.*  
+*Exploro la intersección **arte · IA · educación** mediante proyectos críticos, accesibles y de pequeño formato.*
 
 </div>
 
 ---
 
-## 📊 GitHub Overview
+## 📊 Panorama de GitHub
 
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcoS9309&theme=github-compact&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoS9309&layout=compact&theme=transparent&hide_border=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=MarcoS9309&theme=transparent&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=MarcoS9309&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true)
 
 </div>
 
 ---
 
-## 🎯 Focus
+## 🎯 Enfoque
 
-- **Now** → Writing stories and fables · Designing minimal web templates · Experimenting with LLMs.  
-- **Method** → Iterative steps · Clear constraints · Open documentation.  
-- **Values** → Critical thinking · Ethical AI · Accessibility · Interdisciplinarity.  
-- **Languages** → Spanish (native) · English (professional).  
+- **Ahora** → Escritura de relatos y fábulas · Plantillas web mínimas · Experimentos con LLM.  
+- **Método** → Iteración breve · Restricciones claras · Documentación abierta.  
+- **Valores** → Pensamiento crítico · IA ética · Accesibilidad · Interdisciplinariedad.  
+- **Idiomas** → Español (nativo) · Inglés (profesional).
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Proyectos destacados
 
-- [**Historias**](https://github.com/MarcoS9309/Historias) → Short stories and AI-driven narrative experiments *(in progress)*  
-- [**Fábulas emocionales**](https://github.com/MarcoS9309/fabulas-emocionales) → Original fables for reflection and education *(living draft)*  
-- [**Minimal Web Template**](https://github.com/MarcoS9309/plantilla-web-minima) → Lightweight HTML/CSS/JS base for quick projects  
+- [**InnovaEDU**](https://github.com/MarcoS9309/InnovaEDU) → Recursos y prototipos para innovación educativa con IA *(en curso)*  
+- [**gaminifa_demo**](https://github.com/MarcoS9309/gaminifa_demo) → Demo de juego/experimento interactivo orientado a aprendizaje lúdico  
+- [**Senderos_arte**](https://github.com/MarcoS9309/Senderos_arte) → Talleres y guías para arte + humanidades con apoyo de IA  
+- [**Historias**](https://github.com/MarcoS9309/Historias) → Relatos breves y experimentos narrativos con IA *(borrador vivo)*  
+- [**Fábulas emocionales**](https://github.com/MarcoS9309/fabulas-emocionales) → Fábulas originales para reflexión y educación  
+- [**Plantilla web mínima**](https://github.com/MarcoS9309/plantilla-web-minima) → Base HTML/CSS/JS ligera para proyectos rápidos
 
 <details>
-<summary>📂 Archive / More Repos</summary>
+<summary>📂 Archivo / Más repos</summary>
 
 - [Virtual Psychodrama Theater (beta)](https://github.com/MarcoS9309/desktop-tutorial)  
-- [Entries Repository](https://github.com/MarcoS9309/Repositorio-de-entradas) *(last update: 2025-07-26)*  
+- [Repositorio de entradas](https://github.com/MarcoS9309/Repositorio-de-entradas) *(últ. act.: 2025-07-26)*  
 
 </details>
 
 ---
 
-## 🛠️ Tools
+## 🛠️ Herramientas
 
-- **Languages**: Python · JavaScript · HTML/CSS · Markdown  
-- **Environment**: VS Code · Git · GitHub · Copilot  
-
----
-
-## 🌱 Interests
-
-Art · Symbolic communication · Digital education · Mental health · Interdisciplinary innovation  
+- **Lenguajes**: Python · JavaScript · HTML/CSS · Markdown  
+- **Entorno**: VS Code · Git · GitHub · Copilot
 
 ---
 
-## 📬 Contact
+## 🌱 Intereses
+
+Arte · Comunicación simbólica · Educación digital · Salud mental · Innovación interdisciplinar
+
+---
+
+## 📬 Contacto
 
 - GitHub: [@MarcoS9309](https://github.com/MarcoS9309)  
 - X/Twitter: [@vinicio_salto](https://x.com/vinicio_salto)  
 - Blog: [phantomlord123.blogspot.com](https://phantomlord123.blogspot.com/)  
-- Email: **alligator9339@protonmail.com**  
-
+- Email: **alligator9339@protonmail.com**
 
 ---
 
 <div align="center">
 
-⌛ *Last updated: 2025-08-11*
+⌛ *Última actualización: 2025-08-27*
 
 </div>
+
+
+<div align="center">
+
+⌛ *Última actualización: 2025-08-27*
+
+</div>
+
 
 
