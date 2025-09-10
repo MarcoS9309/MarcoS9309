@@ -1,75 +1,78 @@
 <div align="center">
 
-# 👋 Hola, soy **Marco Vinicio**
+# 👋 Hi, I’m **Marco Vinicio**  
 
-📚 *Arte · IA · Educación*  
-🌐 Proyectos críticos, accesibles y de pequeño formato  
+📚 *Art · AI · Education*  
+🧩 *Interdisciplinarity · Critique · Creativity*  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcoS9309&theme=github-compact&hide_border=true)  
-
-</div>
-
----
-
-## 📊 Panorama de GitHub
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoS9309&layout=compact&theme=transparent&hide_border=true)  
-![Stats](https://github-readme-stats.vercel.app/api?username=MarcoS9309&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true)
+🌐 I build small-scale projects with accessible and critical impact  
 
 </div>
 
 ---
 
-## 🎯 Enfoque
+## ✨ About Me
 
-💡 **Ahora**: Escritura de relatos y fábulas · Plantillas web mínimas · Experimentos con LLM  
-⚙️ **Método**: Iteración breve · Restricciones claras · Documentación abierta  
-🌱 **Valores**: Pensamiento crítico · IA ética · Accesibilidad · Interdisciplinariedad  
-🌍 **Idiomas**: Español (nativo) · Inglés (profesional)  
+I explore the intersection of **art, symbolic communication, and digital education**.  
+My work combines **AI**, creative writing, and minimal web tools,  
+always seeking the balance between **critical thinking** and **playful experimentation**.  
 
 ---
 
-## 🚀 Proyectos destacados
+## 🎯 Current Focus
+
+💡 **Now**: stories & fables · minimal web prototypes · LLM experiments  
+⚙️ **Method**: short iterations · clear constraints · open documentation  
+🌱 **Values**: critical thinking · ethical AI · accessibility · interdisciplinary dialogue  
+
+---
+
+## 🚀 Featured Projects
 
 - [**InnovaEDU**](https://github.com/MarcoS9309/InnovaEDU)  
-  ![Estado](https://img.shields.io/badge/estado-en%20curso-yellow)  
-  Recursos y prototipos para innovación educativa con IA  
+  ![Status](https://img.shields.io/badge/status-in%20progress-yellow) ![Education](https://img.shields.io/badge/area-education-blue)  
+  Prototypes and resources for educational innovation with AI  
 
 - [**gaminifa_demo**](https://github.com/MarcoS9309/gaminifa_demo)  
-  Demo de juego/experimento interactivo orientado a aprendizaje lúdico  
+  ![Game](https://img.shields.io/badge/area-playful%20learning-orange)  
+  Interactive demo oriented toward playful and exploratory learning  
 
 - [**Senderos_arte**](https://github.com/MarcoS9309/Senderos_arte)  
-  Talleres y guías para arte + humanidades con apoyo de IA  
+  ![Art](https://img.shields.io/badge/area-art%20%2B%20humanities-purple)  
+  Workshops and guides for art + humanities with AI support  
 
 - [**Historias**](https://github.com/MarcoS9309/Historias)  
-  ![Estado](https://img.shields.io/badge/borrador-vivo-blue)  
-  Relatos breves y experimentos narrativos con IA  
+  ![Narrative](https://img.shields.io/badge/area-narrative-lightgrey)  
+  Short stories and narrative experiments with AI  
 
 - [**Fábulas emocionales**](https://github.com/MarcoS9309/fabulas-emocionales)  
-  Fábulas originales para reflexión y educación  
+  ![Reflection](https://img.shields.io/badge/area-reflection-red)  
+  Original fables for reflection and education  
 
-- [**Plantilla web mínima**](https://github.com/MarcoS9309/plantilla-web-minima)  
-  Base HTML/CSS/JS ligera para proyectos rápidos  
+- [**Minimal Web Template**](https://github.com/MarcoS9309/plantilla-web-minima)  
+  ![Web](https://img.shields.io/badge/area-minimal%20web-9cf)  
+  Lightweight HTML/CSS/JS base for quick projects  
 
 <details>
-<summary>📂 Archivo / Más repos</summary>
+<summary>📂 Archive / More Repos</summary>
 
 - [Virtual Psychodrama Theater (beta)](https://github.com/MarcoS9309/desktop-tutorial)  
-- [Repositorio de entradas](https://github.com/MarcoS9309/Repositorio-de-entradas) *(últ. act.: 2025-07-26)*  
+- [Repository of entries](https://github.com/MarcoS9309/Repositorio-de-entradas) *(last updated: 2025-07-26)*  
 
 </details>
 
 ---
 
-## 🛠️ Herramientas
+## 🛠️ Tools
 
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)  
+
+**Environment & Version Control**  
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
@@ -77,23 +80,26 @@
 
 ---
 
-## 🌱 Intereses
+## 🌱 Interests
 
-Arte · Comunicación simbólica · Educación digital · Salud mental · Innovación interdisciplinar  
+> *“I believe in the union of critique and imagination.”*  
+I’m interested in how art, AI, and education intertwine to create  
+new approaches to **learning, reflection, and mental health**.  
 
 ---
 
-## 📬 Contacto
+## 📬 Contact
 
-- GitHub: [@MarcoS9309](https://github.com/MarcoS9309)  
-- X/Twitter: [@vinicio_salto](https://x.com/vinicio_salto)  
-- Blog: [phantomlord123.blogspot.com](https://phantomlord123.blogspot.com/)  
-- Email: **alligator9339@protonmail.com**  
+[![GitHub](https://img.shields.io/badge/GitHub-@MarcoS9309-181717?logo=github)](https://github.com/MarcoS9309)  
+[![X](https://img.shields.io/badge/Twitter-@vinicio__salto-1DA1F2?logo=x)](https://x.com/vinicio_salto)  
+[![Blog](https://img.shields.io/badge/Blog-phantomlord123-FF5722?logo=blogger)](https://phantomlord123.blogspot.com/)  
+[![Email](https://img.shields.io/badge/Email-alligator9339%40protonmail.com-8B89CC?logo=protonmail)](mailto:alligator9339@protonmail.com)  
 
 ---
 
 <div align="center">
 
-⌛ *Última actualización: 27 de agosto de 2025*  
+✍️ *This profile is an open notebook: each project is a fragment in progress.*  
 
 </div>
+
